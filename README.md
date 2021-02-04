@@ -4,6 +4,7 @@
 
 > Making use of SKKU user data for personalized recommendations 
 
+> Using Collaborative Filtering System, Matrix Factorization, Deep learning approaches 
+
 > Can be Further used for applications of other recommendation systems 
 
-> Using Collaborative Filtering System
