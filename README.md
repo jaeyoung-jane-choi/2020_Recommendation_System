@@ -1,4 +1,4 @@
-##### 2020-CodeepLearning-Recommendation-System
+##### 2020-Recommendation-System
 
 > Implemeting a recommendation system for the library of SKKU
 
