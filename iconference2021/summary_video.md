@@ -4,10 +4,11 @@
 
 
 
+[![Embedding-based Neural Network Models for Book Recommendation in University Libraries](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
 
-- This is a short summary video for the paper
+- Short paper summary video for the iconference2021[(url)](https://www.ischools.org/iConference)   
+
+- Presented at the Workshop #2: AI + Informetrics: Multi-disciplinary Interactions in the Era of Big Data
