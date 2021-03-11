@@ -4,7 +4,7 @@
 
 
 
-[![Embedding-based Neural Network Models for Book Recommendation in University Libraries](http://img.youtube.com/vi/QYNwbZHmh8g/0.jpg)](https://youtu.be/QYNwbZHmh8g?t=0s) 
+[![Embedding-based Neural Network Models for Book Recommendation in University Libraries](http://img.youtube.com/vi/o5XamvwLSJU/0.jpg)](https://youtu.be/o5XamvwLSJU) 
 
 
 
